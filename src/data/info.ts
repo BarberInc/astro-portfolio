@@ -1,88 +1,88 @@
 export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
-  jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
+  name: "Chandler Haefner",
+  jobDescription: "CyberSec/SysAdmin/Programming Freelancer/AI enthusiest",
+  about: `I'm a freelance software engineer based in LA/Monterey, California. I moved here from Florida not too long ago, and have been looking for a new place/communnity to be a part of.
+   I enjoy learning about most everything, with a higher interest in things that involve the human brain/nerve system especially as related to artificial intelligence when it comes to computer systems.  
+   I have been looking for work in the LA/Sanfrancisco/Monterey CA area, and have been getting by doing smaller jobs like door dash and reselling things of vantity.
+   I have some years of experience in lower level programming languages and have recently gotten into utilizing ChatGPT, although I have been looking for an opportunity to obtain access to and to make use of Google's bard AI tool.
+   I have a fair amount of experience, much more than the average computer user, using a number of different operating systems, some of which include: Windows 7(most when it comes to windows), ~8~, 10, linux kernel based OS's including debian systems (kali, parrot OS, Qubes, debian 10, Ubuntu...), ArchLinux (garuda, BlackArch, Manjaro, plain arch...(my personal favorite and what I use on my personal machine)),
+   Some expereience with CentOS 8 albiet not much, have used it to set up servers on GCP...
+   I am completely self taught through personal experience and self interest in the majority of things I know, especially relating to biological systems and programming.
+   I learned a lot of my programming knowledge through an interest in reverse engineering and making mods for video games when I was younger, that was what really got my interested in programming and taking things apart to see how they worked.
+   I spend my free time investing in my self, meaning learning new skills and reading about things I find interesting - music, languages, medicine, quantum computing, AI research to name a few things.
+   I only have a High School education, albiet I did spend a a year or so in a state college attempting to get a degree in applied physics but found that I rather quickly lost interest in the courses that did not have a direct coincision with the things I wanted to learn.
+   I have a decent amount of knowledgeability in a few languages, (reading/writing, not so much with speaking besides the first three), some of which include - 
+    - Chinese
+    - Japanese
+    - German
+    - A small amount of Swedish, Russian, French, and Latin, ordered in from left to right based on my level of comprehension 
   `,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
-      endDate: "Present",
+      name: "Accountant At Tri-City Electric (Temp)",
+      location: "Altamonte, FL",
+      startDate: "Jan 2019",
+      endDate: "Dec 2021",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "- Data Entry",
+        "- Attending meetings in a team based setting (In person and microsoft teams)",
+        "- Warehouse ticket collection/inventory pricing and quantizing",
+        "- Making and improving upon spreadsheets",
+        "- Occasional special projects",
       ],
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      name: "Human Resources Assistant",
+      location: "Altamonte，FL",
+      startDate: "Jan 2017",
+      endDate: "Apr 2019",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
+        "- Handling of sensitive personal information",
+        "- Scanning/Copying large blue prints",
+        "- Organization of offices",
       ],
     },
 
     {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
+      name: "Casino Brush",
+      location: "Orange City, FL",
+      startDate: "Jan 2022",
+      endDate: "Aug 2022",
       description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        "Handled somewhat larger amounts of money, whether by cash or tokens.",
+        "Audited token stash at end of night, making sure that money was not there that shouldn't be there or missing.",
       ],
     },
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
+      name: "Seminole High School",
+      location: "Sanford, FL",
+      startDate: "2015",
+      endDate: "2019",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        "A simple high school diploma",
       ],
     },
     {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
+      name: "Seminole State College",
+      location: "Sanford, FL",
+      startDate: "2019",
+      endDate: "2021",
+      description: ["Applied Physics was the degree I had in mind"],
     },
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    facebook: "https://www.facebook.com/profile.php?id=100081242077803",
+    twitter: "https://twitter.com/ChandlerHaefner",
+    github: "https://github.com/BarberInc",
+    email: "chandler3288@gmail.com",
+    linkedin: "https://www.linkedin.com/in/chandlerhaefner/",
   },
 
   projects: [
