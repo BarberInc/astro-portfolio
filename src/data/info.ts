@@ -82,16 +82,16 @@ export const info = {
     twitter: "https://twitter.com/ChandlerHaefner",
     github: "https://github.com/BarberInc",
     email: "chandler3288@gmail.com",
-    linkedin: "https://www.linkedin.com/in/chandlerhaefner/",
+    linkedin: "https://www.linkedin.com/in/chandler-haefner-527053237/",
   },
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "Chandler's Website :)",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      githubUrl: "https://github.com/BarberInc/astro-portfolio",
+      #liveUrl: "https://astro-portfolio-uzair.vercel.app/",
     },
   ],
 };
