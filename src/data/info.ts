@@ -95,7 +95,7 @@ export const info = {
     {
       title: "Memory Editor (quick tool, Windows krnl)",
       isFeatured: true,
-      thumbnail, "/assets/images/astro-portfolio.png",
+      thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/BarberInc/mem.git",
     },
     {
