@@ -91,7 +91,18 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/BarberInc/astro-portfolio",
-      #liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+    },
+    {
+      title: "Memory Editor (quick tool, Windows krnl)",
+      isFeatured: true,
+      thumbnail, "/assets/images/astro-portfolio.png",
+      githubUrl: "https://github.com/BarberInc/mem.git",
+    },
+    {
+      title: "Memory Editor (linux krnl ver)",
+      isFeatured: true,
+      thumbnail, "/assets/images/astro-portfolio.png",
+      githubUrl: "https://github.com/BarberInc/memlin.git",
     },
   ],
 };
